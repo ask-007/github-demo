@@ -1,3 +1,5 @@
 Leaning Git
 
 Something changes
+
+To this file as well Stashing
